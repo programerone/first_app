@@ -1,0 +1,11 @@
+.bundle
+ad/*.mysql*
+log/*.log
+*.log
+tmp/**/*
+Gemfile.lock
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
